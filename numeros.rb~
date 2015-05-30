@@ -1,0 +1,3 @@
+idade = 10
+salario = 1200.90
+puts salario.next
